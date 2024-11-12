@@ -16,6 +16,7 @@
       <img src="homealone.png">
     </p>
 </a>
+👆🏻 이미지를 클릭하여 사이트로 이동하세요!<br><br>
 
 
 ⚙️ In progress<br>
@@ -56,13 +57,7 @@
 ## Initial BackEnd
 <table style="width: 100%;">
   <tr>
-    <td style="width: 14%; text-align: center;"><img src="src/main/resources/static/img/asm.png" width="80" height="80"></td>
-    <td style="width: 14%; text-align: center;"><img src="src/main/resources/static/img/ygw.png" width="80" height="80"></td>
-    <td style="width: 14%; text-align: center;"><img src="src/main/resources/static/img/gyj.jpg" width="80" height="80"></td>
-    <td style="width: 14%; text-align: center;"><img src="src/main/resources/static/img/jsg.png" width="80" height="80"></td>
-    <td style="width: 14%; text-align: center;"><img src="src/main/resources/static/img/hyn.png" width="80" height="80"></td>
-    <td style="width: 14%; text-align: center;"><img src="src/main/resources/static/img/gms.png" width="80" height="80"></td>
-    <td style="width: 14%; text-align: center;"><img src="src/main/resources/static/img/nsg.png" width="80" height="80"></td>
+
   </tr>
   <tr>
     <td style="width: 14%; text-align: center;"><a href=""><strong>팀장 안수민</strong></a></td>
