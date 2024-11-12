@@ -11,7 +11,7 @@
 일상을 나눠보세요!
 
 <br>
-<a href ="https://www.na-holo.site/">
+<a href ="https://home-alone.site/">
     <p align="center">
       <img src="homealone.png">
     </p>
